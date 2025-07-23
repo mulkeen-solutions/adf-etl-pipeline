@@ -1,0 +1,9 @@
+{
+	"name": "myadf-pipeline-demo",
+	"location": "ukwest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "98b3bd1f-34d4-4c3a-9efe-c796fd7e8fdf",
+		"tenantId": "b0eed5b0-aa69-428b-9676-5fa0b06a499c"
+	}
+}
